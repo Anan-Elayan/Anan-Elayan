@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![](https://visitcount.itsvg.in/api?id=Anan-Elayan&label=Profile%20Views&color=5&pretty=false)](https://visitcount.itsvg.in) 
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Anan-Elayan&label=Profile%20Views&color=5&pretty=false" />
+</a>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/ananeleyan) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100010405154689) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fartist.anan_alayyan%3Ffbclid%3DIwAR0WWzL9uSXv0SjD3PbOyMNnzakPh_M_nDTgu2Kk7Kg9jJ5DuDS88arxsMA&h=AT3gOzwmoD6DqlV7xFha0Rnc_qtEjcLZ2E03K-jrV-qZAD783G2Ubp4IA2ki6pmiG9_2gNj7mQd6vc3yCtJIGqrBwfmFrBtt7rcCDMbbLEbwmg6j5spvBQpDcux3PdvkS7C_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://l.facebook.com/l.php?u=https%3A%2F%2Flinkedin.com%2Fin%2Fanan-elayan%3Ffbclid%3DIwAR0eUYLTveUYfbbwuFS6gvJse-GrW8Y3vGyTISMuXyqL1C8nCZ7x-z3Js7M&h=AT3G0FLk9caQ7VMWMnjBpU2sv7Lkgk3dLovQWmBvKSNTsir1VxCIH6H-D02mRBS9Ng4V7aDi1FCuNELuIUndW64E87V_LdmnCJ1nN1a1JDmhcuYTx_n8_HbRXd2XEN6Id2pZ) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/ananalian1122/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/anan_elayan) 
