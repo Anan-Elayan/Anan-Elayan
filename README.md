@@ -31,6 +31,21 @@
 ![](https://github-readme-stats.vercel.app/api?username=Anan-Eleyan&theme=slateorange&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anan-Eleyan&theme=slateorange&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anan-Eleyan&theme=slateorange&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🔭 I’m currently working on **Flutter**
+
+- 🌱 I’m currently learning **Back-End Dev**
+
+- 💬 Ask me about **Flutter, Dart, Firebase and API**
+
+- 📫 How to reach me **JunaidSuperCoder@gmail.com**
+
+- 📄 Know about my experiences [my experiences](https://drive.google.com/file/d/1senG9Nv2S7GyDC6L1swdNEQwKzMeF5rl/view?usp=sharing)
+
+- ⚡ Fun fact **I've spent more time talking to my code than to actual people**
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anan-Eleyan&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
