@@ -7,7 +7,7 @@
 
 🛠️</p>
 <p align="center"> 
- [![](https://visitcount.itsvg.in/api?id=Anan-Eleyan&icon=0&color=10)](https://visitcount.itsvg.in)
+ <img src="https://komarev.com/ghpvc/?username=Anan-Eleyan&label=Profile%20views&color=0e75b6&style=flat" alt="Anan-Eleyan" /> 
 
 
 </p>
