@@ -14,7 +14,7 @@
 <h3 align="Center">Connect with me:</h3>
 <p align="Center">
 <a href="https://www.linkedin.com/in/anan-elayan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100010405154689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100010405154689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supunnanayakkara" height="30" width="40" /></a>
 <a href="https://www.instagram.com/artist.anan_elayan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="42" /></a>
 <a href="https://www.pinterest.com/ananalian1122/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="supun___lk" height="30" width="42" /></a>
 
