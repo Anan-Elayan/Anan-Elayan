@@ -1,6 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=021DF7&background=6CFFC700&center=true&vCenter=true&random=true&width=435&lines=Salam+All)](https://git.io/typing-svg)<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+<h1 align="center">Hi 👋, I'm Junaid Jameel</h1>
+<h3 align="center">A passionate Programmer from Pakistan</h3>
+<p align="center">I'm hooked on computer tech 🌐! Since I was a kid, software engineering has been my jam. I love diving into new tech 💻 and bringing ideas to life. Let's create some magic together! ✨
 
 
 ## 🌐 Socials:
