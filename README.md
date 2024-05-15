@@ -7,7 +7,8 @@
 
 🛠️</p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=JunaidJameel&label=Profile%20views&color=0e75b6&style=flat" alt="JunaidJameel" /> 
+ [![](https://visitcount.itsvg.in/api?id=Anan-Eleyan&icon=0&color=10)](https://visitcount.itsvg.in)
+
 
 </p>
 
