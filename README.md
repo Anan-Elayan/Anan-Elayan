@@ -19,7 +19,7 @@
 <a href="https://www.instagram.com/artist.anan_elayan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="42" /></a>
 <a href="https://www.pinterest.com/ananalian1122/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="supun___lk" height="30" width="42" /></a>
 <a href="https://www.behance.net/ananeleyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="supun___lk" height="30" width="42" /></a>
-<a href="https://twitter.com/https://twitter.com/anan_elayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supun___lk" height="30" width="42" /></a>
+
 
 </p>
 <br>
