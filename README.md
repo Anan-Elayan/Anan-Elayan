@@ -5,7 +5,7 @@
 <p align="center">I'm hooked on computer tech 🌐! Since I was a kid, software engineering has been my jam. I love diving into new tech 💻 and bringing ideas to life. Let's create some magic together! ✨
 
 
-🛠️</p>
+</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Anan-Eleyan&label=Profile%20views&color=0e75b6&style=flat" alt="Anan-Eleyan" /> 
 
